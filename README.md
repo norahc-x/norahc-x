@@ -3,12 +3,12 @@
 <h1 align="center"> 🌐  Hi, i'm norahC </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=norahx666&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norahx666&theme=monokai&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=norahx666&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norahx666&theme=aura&hide_border=true" width="50%" />
 </div>
 
 
-<h3 align="center">Just learning C++, Unity, and planning to explore Computer Science 🤔</h3>
+<h3 align="center">🌟 Developer and Cybersecurity Student</h3>
 
 
 🔭 i'm Currently Crafting Things
