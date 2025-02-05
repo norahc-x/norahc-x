@@ -25,6 +25,8 @@
 <h2 align="💬 center">Contacts</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/norahc666) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norahcc)
+
 
 <h3 align="center">🛠 Languages and Tools: </h3>
 
