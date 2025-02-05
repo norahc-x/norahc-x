@@ -2,6 +2,15 @@
 
 <h1 align="center"> 🌐  Hi, i'm norahC </h1>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=norahx666&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norahx666&theme=monokai&hide_border=true" width="50%" />
+</div>
+
+
+<h3 align="center">Just learning C++, Unity, and planning to explore Computer Science 🤔</h3>
+
+
 🔭 i'm Currently Crafting Things
 
 🖥️ I’m currently learning **C** and mastering **Python**
@@ -35,6 +44,7 @@
   
 <!--
 **norahx666/norahx666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahx666&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 
 Here are some ideas to get you started:
 
