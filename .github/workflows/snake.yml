@@ -34,7 +34,7 @@ jobs:
             dist/contribution-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_CUSTOM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.LOL }}
 
       # Step 3: Pubblica i file generati nel branch `output`
       - name: Deploy Generated Files
