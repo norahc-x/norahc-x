@@ -1,10 +1,10 @@
 ![GitHub Contribution Snake](https://github.com/norahx666/norahx666/blob/output/contribution-snake-dark.svg)
 
-<h1 align="center"> 👾 Hi, i'm norahC </h1>
+<h1 align="center"> 👾  Hi, i'm norahC </h1>
 
 🔭 i'm Currently Crafting Things
 
-🖥️ I’m currently learning **C**
+🖥️ I’m currently learning **C** and mastering **Python**
 
 🗣️ How to reach me: https://t.me/norahcc
 
