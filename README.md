@@ -1,4 +1,4 @@
-![GitHub Contribution Snake](https://github.com/norahx666/norahx666/blob/output/contribution-ocean.gif)
+![GitHub Contribution Snake](https://github.com/norahx666/norahx666/blob/output/contribution-snake-dark.svg)
 
 ## Hi i'm norahC 👋
 
