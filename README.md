@@ -10,6 +10,11 @@
 
 -🧠 Already know Python and mySQL
 
+<h3 align="center">🚀 Languages: </h3>
+
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
+  
 <!--
 **norahx666/norahx666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
