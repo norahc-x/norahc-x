@@ -22,6 +22,10 @@
 
 🎮 love for gaming
 
+<h2 align="💬 center">Contacts</h2>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/norahc666) 
+
 <h3 align="center">🛠 Languages and Tools: </h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
