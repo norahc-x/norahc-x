@@ -8,7 +8,7 @@
 </div>
 
 
-<h2 align="center">🌟 Developer and Cybersecurity Student</h2>
+<h2 align="center">🌟 Future developer and cybersecurity student </h2>
 <h3 align="center">🚀 New Projects Coming Soon</h3>
 
 
