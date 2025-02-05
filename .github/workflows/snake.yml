@@ -40,7 +40,7 @@ jobs:
       - name: Deploy Generated Files
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.MY_CUSTOM_TOKEN }}
+          github_token: ${{ secrets.LOL}}
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Automated update: Contribution Snake animation"
