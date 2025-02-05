@@ -8,7 +8,8 @@
 </div>
 
 
-<h3 align="center">🌟 Developer and Cybersecurity Student</h3>
+<h2 align="center">🌟 Developer and Cybersecurity Student</h2>
+<h3 align="center">🚀 New Projects Coming Soon</h3>
 
 
 🔭 i'm Currently Crafting Things
@@ -21,7 +22,7 @@
 
 🎮 love for gaming
 
-<h3 align="center">🚀 Languages and Tools: </h3>
+<h3 align="center">🛠 Languages and Tools: </h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
