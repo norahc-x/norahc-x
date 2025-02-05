@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=norah's%20world%&fontSize=40)
+![GitHub Snake](https://github.com/norahx666/norahx666/blob/output/github-snake-dark.svg)
 
 ## Hi i'm norahC 👋
 
