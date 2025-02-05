@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=norahx666&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norahx666&theme=aura&hide_border=true" width="50%" />
 </div>
 
 
@@ -52,7 +51,7 @@
 <!--
 **norahx666/norahx666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahx666&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norahx666&theme=aura&hide_border=true" width="50%" />
 Here are some ideas to get you started:
 
 
