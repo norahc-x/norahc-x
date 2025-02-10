@@ -27,7 +27,7 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 
-<h2 align="center">🌟 Future developer and cybersecurity student </h2>
+<h2 align="center">🌟 Self-taught developer and cybersecurity student </h2>
 <h3 align="center">🚀 New Projects Coming Soon</h3>
 
 
