@@ -1,6 +1,7 @@
 ![GitHub Contribution Snake](https://github.com/norahx666/norahx666/blob/output/contribution-snake-dark.svg)
 
 <h1 align="center"> 🌐  Hi, i'm norahC </h1>
+<h2 align="center">🌟 Self-taught developer and cybersecurity student </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=norahc-x&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -27,7 +28,6 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 
-<h2 align="center">🌟 Self-taught developer and cybersecurity student </h2>
 <h3 align="center">🚀 New Projects Coming Soon</h3>
 
 
