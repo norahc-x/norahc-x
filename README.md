@@ -24,7 +24,6 @@
 ![Nmap](https://img.shields.io/badge/Nmap-1E74FF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-1B6AC6?style=for-the-badge&logo=maltego&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 
