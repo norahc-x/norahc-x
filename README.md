@@ -8,6 +8,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=norahc-x&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-shahzad" /> 
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=norahc-x&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=norahc-x&theme=aura&hide_border=true" width="50%" />
