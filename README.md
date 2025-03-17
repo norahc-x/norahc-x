@@ -22,7 +22,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC634?style=for-the-badge&logo=linux&logoColor=black)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-2B2B2B?style=for-the-badge&logo=homebrew&logoColor=white)
