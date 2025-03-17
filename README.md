@@ -21,9 +21,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-1E74FF?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge&logo=metasploit&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-1B6AC6?style=for-the-badge&logo=maltego&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 
