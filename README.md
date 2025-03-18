@@ -12,7 +12,7 @@
 
 <h1 align="center"> 👾 Hi, i'm norahC </h1>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main repo </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main Repo </b>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=norahc-x&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-shahzad" /> 
