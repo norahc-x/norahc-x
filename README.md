@@ -8,6 +8,8 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
+
+
 <h1 align="center"> 👾 Hi, i'm norahC </h1>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -16,10 +18,11 @@
     <img src="https://komarev.com/ghpvc/?username=norahc-x&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-shahzad" /> 
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=norahc-x&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norahc-x&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahc-x&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+ <img src="https://github-readme-stats.vercel.app/api?username=norahc-x&show_icons=true&theme=midnight-purple" alt="norahc-x's GitHub Stats" /> </br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahc-x&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </div>
+
+
 
 
 <h2 align="center">📟 Self-made developer and cybersecurity student </h2>
