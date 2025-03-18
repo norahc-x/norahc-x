@@ -21,6 +21,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahc-x&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
 <h2 align="center">📟 Self-made developer and cybersecurity student </h2>
 <h2 align="center">🛠 Languages and Tools: </h2>
 
@@ -35,6 +37,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h3 align="center">🔬 New Projects Coming Soon</h3>
 
