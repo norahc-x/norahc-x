@@ -4,6 +4,10 @@
 
 ![GitHub Contribution Snake](https://github.com/norahx666/norahx666/blob/output/contribution-snake-dark.svg)
 
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
+
 <h1 align="center"> 👾 Hi, i'm norahC </h1>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
