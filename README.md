@@ -21,10 +21,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahc-x&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h2 align="center">📟 Self-made developer and cybersecurity student </h2>
 <h2 align="center">🛠 Languages and Tools: </h2>
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC634?style=for-the-badge&logo=linux&logoColor=black)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
