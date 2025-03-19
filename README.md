@@ -18,9 +18,9 @@
     <img src="https://komarev.com/ghpvc/?username=norahc-x&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-shahzad" /> 
 </p>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahc-x&layout=compact&theme=midnight-purple" alt="Top Languages" /> </br>
+ <img src="https://github-readme-stats.vercel.app/api?username=norahc-x&show_icons=true&theme=midnight-purple" alt="norahc-x's GitHub Stats" /> </br>
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=norahc-x&repo=ApproxGuesser&https://github.com/norahc-x/ApproxGuesser&theme=midnight-purple" /> </br>
- <img src="https://github-readme-stats.vercel.app/api?username=norahc-x&show_icons=true&theme=midnight-purple" alt="norahc-x's GitHub Stats" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahc-x&layout=compact&theme=midnight-purple" alt="Top Languages" /> 
 </div>
 
      
