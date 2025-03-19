@@ -12,7 +12,7 @@
 
 <h1 align="center"> 👾 Hi, i'm norahC </h1>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main Repo </b>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main Repo </h2>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=norahc-x&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-shahzad" /> 
@@ -42,6 +42,8 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+![](https://github-profile-trophy.vercel.app/?username=norahc-x&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="center">🔬 New Projects Coming Soon</h3>
 
