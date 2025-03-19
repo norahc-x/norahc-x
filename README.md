@@ -12,6 +12,15 @@
 
 <h1 align="center"> 👾 Hi, i'm norahC </h1>
 
+🔭 i'm Currently Crafting Things
+
+🖥️ I’m currently learning **C** and mastering **Python**
+
+🧠 Already know Python and mySQL
+
+🗣️ How to reach me: https://t.me/norahcc
+
+<h2 align="💬 center">Contacts</h2>
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main Repo </h2>
 
 <p align="left"> 
@@ -45,20 +54,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=norahc-x&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="center">🔬 New Projects Coming Soon</h3>
-
-
-🔭 i'm Currently Crafting Things
-
-🖥️ I’m currently learning **C** and mastering **Python**
-
-🗣️ How to reach me: https://t.me/norahcc
-
-🧠 Already know Python and mySQL
-
-🎮 love for gaming
-
-<h2 align="💬 center">Contacts</h2>
+<h2 align="center">🔬 New Projects Coming Soon</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norahcc)
 
