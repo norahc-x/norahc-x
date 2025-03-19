@@ -21,7 +21,6 @@
 
 🗣️ How to reach me: https://t.me/norahcc
 
-<h2 align="💬 center">Contacts</h2>
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main Repo </h2>
 
 <p align="left"> 
@@ -51,10 +50,13 @@
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-## 🏆 GitHub Trophies
+<h2 align="center"> 🏆 GitHub Trophies </h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=norahc-x&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-<h2 align="center">🔬 New Projects Coming Soon</h3>
+<h2 align="center">🔬 New Projects Coming Soon </h2>
+
+<h2 align="center"> 💬 Contacts </h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norahcc)
 
