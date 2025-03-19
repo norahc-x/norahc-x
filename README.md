@@ -62,9 +62,15 @@
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h2 align="center"> 🏆 GitHub Trophies </h2>
+<h2 align="center"> 🥇 GitHub Trophies </h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=norahc-x&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
+
+<h2 align="center"> ✨ Contributions </h2>
+
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=norahc-x&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" />
+</div>
 
 <h2 align="center"> 💬 Contacts </h2>
 
