@@ -52,6 +52,7 @@
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=norahc-x&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 <h2 align="center">🔬 New Projects Coming Soon</h3>
