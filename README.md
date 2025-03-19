@@ -10,8 +10,9 @@
 
 
 
-<h1 align="center"> 👾 Hi, i'm norahC </h1>
-<h2 align="center">📟 Self-made developer and cybersecurity student </h2>
+<h1 align="center"> 👾 Hi, i'm norahC
+    
+<h2 align="center">📟 Self-Made Developer and Cybersecurity Student </h2>
 
 🔭 i'm Currently Crafting Things
 
@@ -33,7 +34,7 @@
 
      
 
-<h2 align="center">🛠 Languages and Tools: </h2>
+<h2 align="center">🛠 Languages and Tools: 
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
@@ -41,11 +42,22 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-2B2B2B?style=for-the-badge&logo=homebrew&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
@@ -53,8 +65,6 @@
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=norahc-x&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
-
-<h2 align="center">🔬 New Projects Coming Soon </h2>
 
 <h2 align="center"> 💬 Contacts </h2>
 
