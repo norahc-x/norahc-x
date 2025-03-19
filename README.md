@@ -11,6 +11,7 @@
 
 
 <h1 align="center"> 👾 Hi, i'm norahC </h1>
+<h2 align="center">📟 Self-made developer and cybersecurity student </h2>
 
 🔭 i'm Currently Crafting Things
 
@@ -28,13 +29,11 @@
 </p>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=norahc-x&show_icons=true&theme=midnight-purple" alt="norahc-x's GitHub Stats" /> </br>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=norahc-x&repo=ApproxGuesser&https://github.com/norahc-x/ApproxGuesser&theme=midnight-purple" /> </br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norahc-x&layout=compact&theme=midnight-purple" alt="Top Languages" /> 
 </div>
 
      
 
-<h2 align="center">📟 Self-made developer and cybersecurity student </h2>
 <h2 align="center">🛠 Languages and Tools: </h2>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
