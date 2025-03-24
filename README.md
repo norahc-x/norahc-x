@@ -20,8 +20,7 @@
 
 🧠 Already know Python and mySQL
 
-🗣️ How to reach me: https://t.me/norahcc
-
+🗣️ How to reach me: norahcc@proton.me
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main Repo </h2>
 
 <p align="left"> 
