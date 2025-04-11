@@ -21,7 +21,7 @@
 🧠 Already know Python and mySQL
 
 🗣️ How to reach me: https://t.me/norahcc
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Main Repo </h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</h2>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=norahc-x&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-shahzad" /> 
