@@ -10,7 +10,7 @@
 
 
 
-<h1 align="center"> 👾 Hi, i'm norahC
+<h1 align="center"> 👾 Hi, i'm norahC</h1>
 
 🗣️ How to reach me: https://t.me/norahcc
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</h2>
