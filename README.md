@@ -11,8 +11,6 @@
 
 
 <h1 align="center"> 👾 Hi, i'm norahC
-    
-<h2 align="center">📟 Self-Made Developer and Cybersecurity Student </h2>
 
 🗣️ How to reach me: https://t.me/norahcc
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</h2>
